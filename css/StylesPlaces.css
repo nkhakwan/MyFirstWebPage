@@ -4,15 +4,9 @@ h1 {
 }
 p {
   font-style: sans-serif;
-  font-variant: inherit;
-  font-size: 20;
-  line-height: 30;
-  text-align: left;
   color: peru
 }
 ul {
   font-style: oblique;
-  font-size: 20 px;
-  line-height: 30px;
   color: olivedrab
 }
