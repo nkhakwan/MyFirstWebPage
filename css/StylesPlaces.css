@@ -1,0 +1,13 @@
+h1 {
+   color: blue; 
+   text-align: center;
+}
+
+p {
+  font-style: sans-serif;
+}
+
+ul {
+  font-size: 20 px;
+  line-height: 30px;
+}
